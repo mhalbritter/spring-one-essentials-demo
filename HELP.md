@@ -1,10 +1,5 @@
 # Read Me First
 
-The following was discovered as part of building this project:
-
-* The original package name 'com.example.spring-one-demo' is invalid and this project
-  uses 'com.example.springonedemo' instead.
-
 # Getting Started
 
 ### Reference Documentation
@@ -12,10 +7,10 @@ The following was discovered as part of building this project:
 For further reference, please consider the following sections:
 
 * [Official Gradle documentation](https://docs.gradle.org)
-* [Spring Boot Gradle Plugin Reference Guide](https://docs.spring.io/spring-boot/docs/3.0.0/gradle-plugin/reference/html/)
-* [Create an OCI image](https://docs.spring.io/spring-boot/docs/3.0.0/gradle-plugin/reference/html/#build-image)
-* [GraalVM Native Image Support](https://docs.spring.io/spring-boot/docs/3.0.0/reference/html/native-image.html#native-image)
-* [Spring Web](https://docs.spring.io/spring-boot/docs/3.0.0/reference/htmlsingle/#web)
+* [Spring Boot Gradle Plugin Reference Guide](https://docs.spring.io/spring-boot/docs/3.0.2/gradle-plugin/reference/html/)
+* [Create an OCI image](https://docs.spring.io/spring-boot/docs/3.0.2/gradle-plugin/reference/html/#build-image)
+* [GraalVM Native Image Support](https://docs.spring.io/spring-boot/docs/3.0.2/reference/html/native-image.html#native-image)
+* [Spring Web](https://docs.spring.io/spring-boot/docs/3.0.2/reference/htmlsingle/#web)
 
 ### Guides
 
@@ -30,7 +25,7 @@ The following guides illustrate how to use some features concretely:
 These additional references should also help you:
 
 * [Gradle Build Scans – insights for your project's build](https://scans.gradle.com#gradle)
-* [Configure AOT settings in Build Plugin](https://docs.spring.io/spring-boot/docs/3.0.0/gradle-plugin/reference/htmlsingle/#aot)
+* [Configure AOT settings in Build Plugin](https://docs.spring.io/spring-boot/docs/3.0.2/gradle-plugin/reference/htmlsingle/#aot)
 
 ## GraalVM Native Support
 
